@@ -228,7 +228,7 @@ Clothes
 alt: footwear
 Footwear
 
-alt: clothes
+alt: jewelry
 Jewelry
 
 alt: perfume
